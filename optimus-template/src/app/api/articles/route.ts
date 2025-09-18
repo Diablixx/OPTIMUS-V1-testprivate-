@@ -9,7 +9,7 @@ const corsHeaders = {
   'Access-Control-Allow-Headers': 'Content-Type, Authorization',
 };
 
-export async function OPTIONS(_request: NextRequest) {
+export async function OPTIONS() {
   return new NextResponse(null, { status: 200, headers: corsHeaders });
 }
 
@@ -46,7 +46,7 @@ export const metadata = {
   description: '${content.substring(0, 150).replace(/'/g, "\\'")}...',
 };
 
-export default function ${slug.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join('')}Page() {
+export default function ${slug.split('-').map((word: string) => word.charAt(0).toUpperCase() + word.slice(1)).join('')}Page() {
   return (
     <Layout>
       <div className="bg-white">
@@ -69,7 +69,7 @@ export default function ${slug.split('-').map(word => word.charAt(0).toUpperCase
         
         <div className="max-w-4xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
           <div className="prose prose-lg max-w-none">
-            ${content.split('\n').map(paragraph => 
+            ${content.split('\n').map((paragraph: string) => 
               paragraph.trim() ? `<p className="mb-6 text-lg text-gray-700 leading-relaxed">${paragraph.replace(/'/g, "\\'")}</p>` : ''
             ).join('\n            ')}
           </div>
