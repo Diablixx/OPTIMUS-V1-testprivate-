@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     google: "your-google-verification-code",
   },
   alternates: {
-    canonical: process.env.NEXT_PUBLIC_SITE_URL,
+    canonical: process.env.NEXT_PUBLIC_SITE_URL || 'https://optimus-version-one-7hvb.vercel.app',
   },
 };
 
