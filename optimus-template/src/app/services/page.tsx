@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export const metadata = {
   title: 'Nos Services Marketing Digital | Optimus',
-  description: 'Découvrez nos services d\'experts : SEO, marketing digital, e-commerce, formations et conseil personnalisé.',
+  description: 'Découvrez nos services d&apos;experts : SEO, marketing digital, e-commerce, formations et conseil personnalisé.',
 };
 
 export default function ServicesPage() {
@@ -79,7 +79,7 @@ export default function ServicesPage() {
           
           <div className="mt-16 bg-gray-50 rounded-lg p-12 text-center">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Besoin d'un service sur-mesure ?
+              Besoin d&apos;un service sur-mesure ?
             </h2>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
               Chaque projet est unique. Parlons de vos besoins spécifiques et créons une solution adaptée.

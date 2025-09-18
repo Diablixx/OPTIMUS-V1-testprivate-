@@ -15,10 +15,10 @@ export default function OffrePDFPage() {
               🎁 Guide PDF Gratuit
             </h1>
             <h2 className="mt-4 text-2xl font-bold text-white">
-              "Les 10 Stratégies Marketing Qui Multiplient Vos Ventes"
+              &ldquo;Les 10 Stratégies Marketing Qui Multiplient Vos Ventes&rdquo;
             </h2>
             <p className="mt-6 text-xl text-gray-100 max-w-2xl mx-auto">
-              Découvrez les secrets que 97% des entrepreneurs ignorent pour exploser leur chiffre d'affaires
+              Découvrez les secrets que 97% des entrepreneurs ignorent pour exploser leur chiffre d&apos;affaires
             </p>
           </div>
         </div>

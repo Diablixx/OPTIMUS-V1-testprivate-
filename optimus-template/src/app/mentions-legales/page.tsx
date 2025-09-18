@@ -2,7 +2,7 @@ import Layout from '@/components/layout/Layout';
 
 export const metadata = {
   title: 'Mentions légales - Informations légales Optimus',
-  description: 'Consultez les mentions légales d\'Optimus, incluant les informations sur l\'éditeur, l\'hébergement, et les conditions d\'utilisation de notre site.',
+  description: 'Consultez les mentions légales d&apos;Optimus, incluant les informations sur l&apos;éditeur, l&apos;hébergement, et les conditions d&apos;utilisation de notre site.',
 };
 
 export default function MentionsLegalesPage() {
@@ -17,7 +17,7 @@ export default function MentionsLegalesPage() {
                 Mentions légales
               </h1>
               <p className="mt-4 text-xl text-gray-600 max-w-3xl mx-auto">
-                Informations légales et conditions d'utilisation du site Optimus
+                Informations légales et conditions d&apos;utilisation du site Optimus
               </p>
             </div>
           </div>
@@ -27,7 +27,7 @@ export default function MentionsLegalesPage() {
           <div className="prose prose-lg max-w-none">
             <section className="mb-12">
               <h2 className="text-2xl font-bold text-gray-900 mb-6">
-                1. Informations sur l'éditeur
+                1. Informations sur l&apos;éditeur
               </h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-4">
@@ -69,14 +69,14 @@ export default function MentionsLegalesPage() {
                 3. Propriété intellectuelle
               </h2>
               <p className="mb-4 text-gray-700">
-                L'ensemble de ce site relève de la législation française et internationale 
-                sur le droit d'auteur et la propriété intellectuelle. Tous les droits de 
+                L&apos;ensemble de ce site relève de la législation française et internationale 
+                sur le droit d&apos;auteur et la propriété intellectuelle. Tous les droits de 
                 reproduction sont réservés, y compris pour les documents téléchargeables 
                 et les représentations iconographiques et photographiques.
               </p>
               <p className="mb-4 text-gray-700">
                 La reproduction de tout ou partie de ce site sur un support électronique 
-                quel qu'il soit est formellement interdite sauf autorisation expresse du 
+                quel qu&apos;il soit est formellement interdite sauf autorisation expresse du 
                 directeur de la publication.
               </p>
             </section>
@@ -87,13 +87,13 @@ export default function MentionsLegalesPage() {
               </h2>
               <p className="mb-4 text-gray-700">
                 Les informations contenues sur ce site sont aussi précises que possible 
-                et le site remis à jour à différentes périodes de l'année, mais peut 
+                et le site remis à jour à différentes périodes de l&apos;année, mais peut 
                 toutefois contenir des inexactitudes ou des omissions.
               </p>
               <p className="mb-4 text-gray-700">
                 Si vous constatez une lacune, erreur ou ce qui parait être un 
                 dysfonctionnement, merci de bien vouloir le signaler par email, à 
-                l'adresse contact@optimus-digital.fr, en décrivant le problème de la 
+                l&apos;adresse contact@optimus-digital.fr, en décrivant le problème de la 
                 façon la plus précise possible.
               </p>
             </section>
@@ -104,7 +104,7 @@ export default function MentionsLegalesPage() {
               </h2>
               <p className="mb-4 text-gray-700">
                 Les liens hypertextes mis en place dans le cadre du présent site web 
-                en direction d'autres ressources présentes sur le réseau Internet ne 
+                en direction d&apos;autres ressources présentes sur le réseau Internet ne 
                 sauraient engager la responsabilité de Optimus.
               </p>
             </section>
@@ -116,13 +116,13 @@ export default function MentionsLegalesPage() {
               <p className="mb-4 text-gray-700">
                 Conformément à la loi « Informatique et Libertés » du 6 janvier 1978 
                 modifiée et au Règlement Général sur la Protection des Données (RGPD), 
-                vous disposez d'un droit d'accès, de rectification, de suppression et 
-                d'opposition au traitement de vos données personnelles.
+                vous disposez d&apos;un droit d&apos;accès, de rectification, de suppression et 
+                d&apos;opposition au traitement de vos données personnelles.
               </p>
               <p className="mb-4 text-gray-700">
                 Pour exercer ces droits ou pour toute question sur le traitement de 
                 vos données dans ce dispositif, vous pouvez nous contacter par email 
-                à l'adresse : contact@optimus-digital.fr
+                à l&apos;adresse : contact@optimus-digital.fr
               </p>
               <p className="mb-4 text-gray-700">
                 Si vous estimez, après nous avoir contactés, que vos droits « Informatique 
@@ -136,15 +136,15 @@ export default function MentionsLegalesPage() {
                 7. Cookies
               </h2>
               <p className="mb-4 text-gray-700">
-                Ce site utilise des cookies pour améliorer l'expérience utilisateur et 
-                analyser le trafic. Vous pouvez contrôler l'utilisation des cookies via 
+                Ce site utilise des cookies pour améliorer l&apos;expérience utilisateur et 
+                analyser le trafic. Vous pouvez contrôler l&apos;utilisation des cookies via 
                 les paramètres de votre navigateur.
               </p>
               <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
                 <h3 className="font-semibold text-blue-900 mb-2">Types de cookies utilisés :</h3>
                 <ul className="list-disc list-inside text-blue-800 space-y-1">
                   <li>Cookies techniques nécessaires au fonctionnement du site</li>
-                  <li>Cookies d'analyse (Google Analytics) pour mesurer l'audience</li>
+                  <li>Cookies d&apos;analyse (Google Analytics) pour mesurer l&apos;audience</li>
                   <li>Cookies de préférences pour mémoriser vos choix</li>
                 </ul>
               </div>
@@ -155,7 +155,7 @@ export default function MentionsLegalesPage() {
                 8. Droit applicable
               </h2>
               <p className="mb-4 text-gray-700">
-                Tout litige en relation avec l'utilisation du site www.optimus-digital.fr 
+                Tout litige en relation avec l&apos;utilisation du site www.optimus-digital.fr 
                 est soumis au droit français. Il est fait attribution exclusive de 
                 juridiction aux tribunaux compétents de Paris.
               </p>
@@ -178,7 +178,7 @@ export default function MentionsLegalesPage() {
               </h2>
               <p className="text-gray-700">
                 Pour toute question concernant ces mentions légales, 
-                n'hésitez pas à nous contacter :
+                n&apos;hésitez pas à nous contacter :
               </p>
               <div className="mt-4">
                 <p className="mb-2">

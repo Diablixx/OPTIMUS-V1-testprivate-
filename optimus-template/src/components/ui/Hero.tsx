@@ -27,7 +27,7 @@ export default function Hero() {
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start space-y-3 sm:space-y-0 sm:space-x-3">
                 <Button href="/offre-pdf" size="lg">
-                  Découvrir l'offre PDF
+                  Découvrir l&apos;offre PDF
                 </Button>
                 <Button href="/formations" variant="outline" size="lg">
                   Voir les formations

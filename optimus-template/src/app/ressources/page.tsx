@@ -49,7 +49,7 @@ export default function RessourcesPage() {
                 Templates Email Marketing
               </h3>
               <p className="text-gray-600 mb-6">
-                10 templates d'emails qui convertissent, prêts à utiliser
+                10 templates d&apos;emails qui convertissent, prêts à utiliser
               </p>
               <button className="text-purple-600 font-medium hover:text-purple-700">
                 Télécharger ZIP

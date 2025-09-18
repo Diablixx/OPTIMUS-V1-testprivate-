@@ -2,7 +2,7 @@ import Layout from '@/components/layout/Layout';
 
 export const metadata = {
   title: 'Qui sommes-nous - Notre expertise en marketing digital | Optimus',
-  description: 'Découvrez l\'équipe Optimus, ses valeurs et son expertise en marketing digital. Une équipe passionnée au service de votre croissance en ligne.',
+  description: 'Découvrez l&apos;équipe Optimus, ses valeurs et son expertise en marketing digital. Une équipe passionnée au service de votre croissance en ligne.',
 };
 
 export default function QuiSommesNousPage() {
@@ -38,7 +38,7 @@ export default function QuiSommesNousPage() {
                 </svg>
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Expertise</h3>
-              <p className="text-gray-600">Des années d'expérience au service de votre réussite</p>
+              <p className="text-gray-600">Des années d&apos;expérience au service de votre réussite</p>
             </div>
             
             <div className="text-center">

@@ -5,7 +5,6 @@ import { useState, useRef } from 'react';
 import BlogMegaMenu from './BlogMegaMenu';
 
 export default function Header() {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isBlogMenuOpen, setIsBlogMenuOpen] = useState(false);
   const blogMenuTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 

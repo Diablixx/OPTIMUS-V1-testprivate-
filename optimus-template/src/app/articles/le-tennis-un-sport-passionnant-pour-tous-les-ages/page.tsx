@@ -1,8 +1,8 @@
 import Layout from '@/components/layout/Layout';
 
 export const metadata = {
-  title: '"Le tennis, un sport passionnant pour tous les âges" | Optimus',
-  description: 'Le tennis est un sport qui suscite l\'engouement de millions de personnes à travers le monde. Que ce soit en tant que spectateur ou en tant que joueur, le tennis offre de nombreux avantages.',
+  title: '&ldquo;Le tennis, un sport passionnant pour tous les âges&rdquo; | Optimus',
+  description: 'Le tennis est un sport qui suscite l&apos;engouement de millions de personnes à travers le monde. Que ce soit en tant que spectateur ou en tant que joueur, le tennis offre de nombreux avantages.',
 };
 
 export default function LeTennisUnSportPassionnantPourTousLesAgesPage() {
@@ -12,7 +12,7 @@ export default function LeTennisUnSportPassionnantPourTousLesAgesPage() {
         <div className="relative bg-gray-800">
           <div className="max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
             <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">
-              "Le tennis, un sport passionnant pour tous les âges"
+              &ldquo;Le tennis, un sport passionnant pour tous les âges&rdquo;
             </h1>
             <div className="mt-6 flex items-center text-gray-300">
               <span>Par Optimus SaaS</span>

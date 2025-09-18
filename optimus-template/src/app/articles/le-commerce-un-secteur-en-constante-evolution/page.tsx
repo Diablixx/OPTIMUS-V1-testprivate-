@@ -2,7 +2,7 @@ import Layout from '@/components/layout/Layout';
 
 export const metadata = {
   title: 'Le commerce : un secteur en constante évolution | Optimus',
-  description: 'Le commerce est un secteur clé de l\'économie mondiale. Depuis des millénaires, les humains ont échangé des biens et des services pour répondre à leurs besoins. Découvrez les tendances actuelles du commerce.',
+  description: 'Le commerce est un secteur clé de l&apos;économie mondiale. Depuis des millénaires, les humains ont échangé des biens et des services pour répondre à leurs besoins. Découvrez les tendances actuelles du commerce.',
 };
 
 export default function LeCommerceUnSecteurEnConstanteEvolutionPage() {

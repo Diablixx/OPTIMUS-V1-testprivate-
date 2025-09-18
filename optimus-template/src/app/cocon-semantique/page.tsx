@@ -15,7 +15,7 @@ export default function CoconSemantiquePage() {
               Cocon Sémantique
             </h1>
             <p className="mt-6 text-xl text-gray-100 max-w-3xl">
-              Stratégie avancée de référencement naturel pour dominer votre secteur d'activité
+              Stratégie avancée de référencement naturel pour dominer votre secteur d&apos;activité
             </p>
           </div>
         </div>
@@ -24,11 +24,11 @@ export default function CoconSemantiquePage() {
           <div className="grid gap-12 lg:grid-cols-2">
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                Qu'est-ce qu'un cocon sémantique ?
+                Qu&apos;est-ce qu&apos;un cocon sémantique ?
               </h2>
               <p className="text-lg text-gray-600 mb-6">
                 Le cocon sémantique est une technique SEO avancée qui consiste à créer un maillage interne optimisé 
-                autour d'une thématique précise. Cette méthode permet d'améliorer significativement le positionnement 
+                autour d&apos;une thématique précise. Cette méthode permet d&apos;améliorer significativement le positionnement 
                 de vos pages sur les moteurs de recherche.
               </p>
               
@@ -49,7 +49,7 @@ export default function CoconSemantiquePage() {
                   </div>
                   <div className="ml-3">
                     <h4 className="font-semibold text-gray-900">Maillage interne optimisé</h4>
-                    <p className="text-gray-600">Liens stratégiques entre les pages pour renforcer l'autorité</p>
+                    <p className="text-gray-600">Liens stratégiques entre les pages pour renforcer l&apos;autorité</p>
                   </div>
                 </div>
                 

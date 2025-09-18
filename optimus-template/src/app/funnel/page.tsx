@@ -15,7 +15,7 @@ export default function FunnelPage() {
               🚀 Formation Marketing Digital Premium
             </h1>
             <h2 className="mt-4 text-2xl font-bold text-white">
-              "Maîtrisez les Stratégies Qui Génèrent 6 Chiffres"
+              &ldquo;Maîtrisez les Stratégies Qui Génèrent 6 Chiffres&rdquo;
             </h2>
             <p className="mt-6 text-xl text-gray-100 max-w-2xl mx-auto">
               La formation complète pour transformer votre business avec des stratégies marketing éprouvées
@@ -61,7 +61,7 @@ export default function FunnelPage() {
                 <div className="text-center mb-6">
                   <span className="text-gray-500 line-through text-xl">2,997€</span>
                   <span className="text-4xl font-bold text-purple-600 ml-2">997€</span>
-                  <div className="text-sm text-gray-600 mt-2">Économisez 2,000€ aujourd'hui</div>
+                  <div className="text-sm text-gray-600 mt-2">Économisez 2,000€ aujourd&apos;hui</div>
                 </div>
               </div>
               
@@ -143,7 +143,7 @@ export default function FunnelPage() {
               type="button"
               className="inline-flex items-center bg-white text-red-600 px-8 py-4 rounded-md text-xl font-bold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105"
             >
-              🚀 JE PROFITE DE L'OFFRE MAINTENANT
+              🚀 JE PROFITE DE L&apos;OFFRE MAINTENANT
             </button>
           </div>
         </div>

@@ -2,7 +2,7 @@ import Layout from '@/components/layout/Layout';
 
 export const metadata = {
   title: 'Contact - Parlons de votre projet | Optimus',
-  description: 'Contactez notre équipe d\'experts en marketing digital. Devis gratuit et conseil personnalisé.',
+  description: 'Contactez notre équipe d&apos;experts en marketing digital. Devis gratuit et conseil personnalisé.',
 };
 
 export default function ContactPage() {
@@ -161,7 +161,7 @@ export default function ContactPage() {
                 </h4>
                 <p className="text-indigo-700">
                   Recevez une analyse personnalisée de votre présence digitale 
-                  et nos recommandations d'amélioration - sans engagement !
+                  et nos recommandations d&apos;amélioration - sans engagement !
                 </p>
               </div>
             </div>

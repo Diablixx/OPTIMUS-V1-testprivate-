@@ -27,7 +27,7 @@ export default function Home() {
                 Expertise & Innovation
               </h3>
               <p className="text-gray-600 mb-6">
-                Notre équipe d'experts combine les dernières tendances du marketing digital 
+                Notre équipe d&apos;experts combine les dernières tendances du marketing digital 
                 avec des stratégies éprouvées pour maximiser votre retour sur investissement.
               </p>
               <ul className="space-y-3">
